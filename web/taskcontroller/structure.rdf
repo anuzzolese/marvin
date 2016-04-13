@@ -1,0 +1,568 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://dmoz.org/rdf/"
+    xmlns:dc-elements="http://purl.org/dc/elements/1.0/">
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#Top/Arts/Animation/Anime/Characters">
+    <link>
+      <ExternalPage rdf:about="http://shotani.www2.50megs.com/animen_uno.html">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Features men from Fushigi Yuugi, Sailor Moon, Escaflowne, Rayearth, Gundam Wing, Bubblegum Crisis/AD Police, Tenchi Muyo, Utena, an
+d Ayashi no Ceres. Profiles, commentary, polls, fan fiction, images, downloads, and links.</dc-elements:Description>
+        <dc-elements:Title>AniMen</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.angelfire.com/grrl/magicshoppe2/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Shrines to Escaflowne's Dilandau, Final Fantasy's Vincent, SoulTaker's Kyousuke, and Hsi Wu from Jackie Chan Adventures. Includes i
+mages, information, and fan fiction.</dc-elements:Description>
+        <dc-elements:Title>Chibi Hime's Magic Shoppe 2</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.angelfire.com/nv/neko/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Image galleries, descriptions, information, and media on cats from different series.</dc-elements:Description>
+        <dc-elements:Title>Neko Central</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://mousygirl.nekomusume.net/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Shrine to overlooked female characters. Profiles, images, visitors picks, and contact information.</dc-elements:Description>
+        <dc-elements:Title>And the Meek Shall Inherit the Heart</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://valleyofazure.tripod.com/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Dedicated to anthropomorphic characters. Fan art, images, profiles, and links.</dc-elements:Description>
+        <dc-elements:Title>Azure Valley</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.angelfire.com/anime2/bestanimecharacters/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Shrines to Duo, Ryoko, Shampoo, Katy the Kitty, Lady Une, Mimete, Junjun, Parapara, and Sailor Saturn with images, profiles, and li
+nks.</dc-elements:Description>
+        <dc-elements:Title>Site for Liz's Anime Favorites</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.angelfire.com/anime2/ninisbishonen/">
+        <topic>Top/Arts/Animation/Anime/Characters</topic>
+        <dc-elements:Description>Shrines to Vega, Taiki, Dilandau, and Tiger Eye, as well as fan art, adoptions, and links.</dc-elements:Description>
+        <dc-elements:Title>Nini's Bishonen Dungeon</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <catid>285519</catid>
+  </Topic>
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#Top/Arts">
+    <catid>238846</catid>
+  </Topic>
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#">
+    <catid>1</catid>
+  </Topic>
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#Top/Arts/Animation/Anime/Clubs_and_Organizations">
+    <link>
+      <ExternalPage rdf:about="http://www.sfanimeclub.com/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>News and information on the club. Sioux Falls, South Dakota, USA.</dc-elements:Description>
+        <dc-elements:Title>Sioux Falls Anime and Manga Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.yale.edu/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Society charter, image and MIDI archive, schedule, member list, and links. Yale University, Connecticut, USA.</dc-elements:Description>
+        <dc-elements:Title>Yale Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://userwww.sfsu.edu/~animefx/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>About the club, news, past shows, reviews, and forum. San Francisco, California, USA.</dc-elements:Description>
+        <dc-elements:Title>AnimeFX</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.bumac.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Contains group information, news, meetings, member list, contact details, and links. Bloomsburg, Pennsylvania, USA.</dc-elements:Description>
+        <dc-elements:Title>Bloomsburg University Manga and Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.fresnoanime.com">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Schedule information, forums, contact information, and news. Fresno, California, USA.</dc-elements:Description>
+        <dc-elements:Title>Fresno Anime</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://wpganime.ca/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Meeting information, how to join, library of titles, and forum. Manitoba, Canada.</dc-elements:Description>
+        <dc-elements:Title>Winnipeg Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.neoanime.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>News, message boards, contact details, and mailing list. Pomona, California, USA at California State Polytechnic University.</dc-elements:Description>
+        <dc-elements:Title>Neo Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.earlham.edu/~anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Showing schedule, news, club details, and contact information. Richmond, Virginia, USA.</dc-elements:Description>
+        <dc-elements:Title>Earlham College Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.sa.niu.edu/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Location, club history, constitution, club history, and show information. DeKalb, Illinois, USA.</dc-elements:Description>
+        <dc-elements:Title>Anime Association of Northern Illinois University</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.delawareanimesociety.com">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Mailing list, club information, forum, member spotlight, streaming radio shows, newsletter, store, oekaki, media, affiliates and li
+nking, cultural exchange and japanese penpals. Wilmington and Dover, Delaware, USA and Pennsylvania, USA.</dc-elements:Description>
+        <dc-elements:Title>Delaware Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.novaanime.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Introduction, news, directions, charter, officers, FAQ, oregonian article, mailing list, and viewing schedule. Portland, Oregon, US
+A.</dc-elements:Description>
+        <dc-elements:Title>Northern Oregon Vancouver Anime (NOVA)</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.umich.edu/~animania/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>List of screenings, a few MP3s, and series information. [Ann Arbor, Michigan, USA at University of Michigan.</dc-elements:Description>
+        <dc-elements:Title>University of Michigan's Animania</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.ocf.berkeley.edu/~animage/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Meets weekly during the school year to show videos. Archives, schedule, and library. Berkeley, California, USA.</dc-elements:Description>
+        <dc-elements:Title>Cal-Animage Alpha</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://uts.cc.utexas.edu/~anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Includes information about the organization and schedules. Austin, Texas, USA at University of Texas.</dc-elements:Description>
+        <dc-elements:Title>University of Texas at Austin Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.indyanime.org">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, soapbox forum, art gallery, links and contact information. Indianapolis, Indiana, USA.</dc-elements:Description>
+        <dc-elements:Title>Indiana Animation Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://rinoa.nu/axe/axe.html">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Showings, mailing list, members, how to join, multimedia, and links. Toronto, Canada.</dc-elements:Description>
+        <dc-elements:Title>AnimeXtreme</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.animenashville.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>A club that holds meetings several times a month. Club information, current projects, reviews, images, and links. Nashville, Tennes
+see, USA.</dc-elements:Description>
+        <dc-elements:Title>Anime Nashville</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://web.mit.edu/anime/www/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Viewing schedule, club information, art, library, and links. Cambridge, Massachusetts, USA at Massachusetts Institute of Technology
+.</dc-elements:Description>
+        <dc-elements:Title>MIT Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://animetribe.xi.co.nz/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Fan works and information on the animÃ© society. Christchurch, New Zealand.</dc-elements:Description>
+        <dc-elements:Title>Christchurch Anime Tribe</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.haas-online.net">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Fan works, links, events and member list. Huntsville, Alabama, USA.</dc-elements:Description>
+        <dc-elements:Title>Huntsville Alabama Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://dampfkraft.com/bas/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Brown University's Club. Information, news, events, synopses, library, and links. Providence, Rhode Island, USA.</dc-elements:Description>
+        <dc-elements:Title>Brown Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.unc.edu/coup/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>General information, showing schedule, kendo club, and links. Chapel Hill, North Carolina, USA.</dc-elements:Description>
+        <dc-elements:Title>Carolina Otaku Uprising</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.otakuanime.org">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, forum, galleries, blogs, Japanese lessons, otaku resources and mailing list. Livonia, Michigan, USA at Schoolcraf
+t College.</dc-elements:Description>
+        <dc-elements:Title>Otaku Anime</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.stevens.edu/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club calendar, constitution, contact info, and links. Hoboken, New Jersey, USA at Stevens Institute of Technology.</dc-elements:Description>
+        <dc-elements:Title>Stevens Tech Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.auburn.edu/student_info/anime_manga/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Members, constitution, themes, quotes, and links. Auburn, Alabama, USA.</dc-elements:Description>
+        <dc-elements:Title>Auburn University Society of Anime and Manga</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.thenoodlebowl.com/oav/index.html">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <uksite>1</uksite>
+        <dc-elements:Description>List of screenings and events. Oxford, UK at Oxford University.</dc-elements:Description>
+        <dc-elements:Title>Oxford Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.ctrl-a.org">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>A gathering place for anime fans in Waterloo, Ontario, Canada. Hosts weekly gatherings including activities, showings, and social o
+utings.</dc-elements:Description>
+        <dc-elements:Title>CTRL-A</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.mun-anime.com">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Information about the club and up-to-date news regarding upcoming events. St. John's NL, Canada, at Memorial University of Newfound
+land.</dc-elements:Description>
+        <dc-elements:Title>The St John's Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://cyberbuzz.gatech.edu/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>News, meetings, library, and contact details. Atlanta, Georgia, USA.</dc-elements:Description>
+        <dc-elements:Title>Anime O-tekku</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.animekurabu.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, calendar, forum, news, and gallery. San Antonio, Texas, USA.</dc-elements:Description>
+        <dc-elements:Title>Anime Kurabu</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.jaco.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Schedule, news, staff profiles, and photos. Orlando, Florida, USA at University of Central Florida.</dc-elements:Description>
+        <dc-elements:Title>Japanese Animation Club of Orlando</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.hcs.harvard.edu/~anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Information, news, officer list, library, links, and schedule. Cambridge, Massachusetts, USA at Harvard University.</dc-elements:Description>
+        <dc-elements:Title>Harvard Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.ic.sunysb.edu/Clubs/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>History, constitution, showings, and tape library. Stony Brook, New York, USA.</dc-elements:Description>
+        <dc-elements:Title>Animated Perspectives</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.an-ex.com">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, forum, calendar, group, multimedia, and links. [Eastman, Georgia and Rochester, New York, USA.</dc-elements:Description>
+        <dc-elements:Title>Animation Exclamation</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.nnanime.com/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Information about monthly showings and copies of newsletters. Saratoga, California, USA.</dc-elements:Description>
+        <dc-elements:Title>No-Name Anime Society</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.orgs.ttu.edu/muepsilonkappa/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Officer listing, FAQ, rules, schedule, and constitution. Lubbock, Texas, USA.</dc-elements:Description>
+        <dc-elements:Title>10,000 Animeniacs</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://soap.ottawa-anime.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Events, news, forum, and newsletter. Ontario, Canada.</dc-elements:Description>
+        <dc-elements:Title>Society for Ottawa Anime Promotion</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.animeangels.net/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Community for Christian fans. Contests, adoptions, Winamp skins, articles, and artwork.</dc-elements:Description>
+        <dc-elements:Title>Anime Angels</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://organizations.weber.edu/wyvern/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, gallery, forum, links and announcements. Ogden, Utah, USA at Weber State University.</dc-elements:Description>
+        <dc-elements:Title>Wyvern</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.ac.wwu.edu/~aiya/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Includes meetings, news, history, and links. Bellingham, Washington, USA.</dc-elements:Description>
+        <dc-elements:Title>Aiya</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.emeraldtokyo.com/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Forum, membership information, news, art work, and links. Greenville, South Carolina, USA.</dc-elements:Description>
+        <dc-elements:Title>Emerald Tokyo Entertainment</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.yorku.ca/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Events, club information, library, news, fan art, chat, and links. York University, Canada.</dc-elements:Description>
+        <dc-elements:Title>York University Anime and Manga Association (YAMA)</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://ecujapan.org/category/anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>News, photos, schedule, member list, and videos. Greenville, North Carolina, USA.</dc-elements:Description>
+        <dc-elements:Title>ECU Japan League</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://uranime.nekomusume.net/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>UR Anime is no longer an active organization. However, the history of the club and all anime convention photo galleries are still s
+howcased as a service to the public. Virginia, USA at University of Richmond.</dc-elements:Description>
+        <dc-elements:Title>University of Richmond Japanese Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://carleton.ottawa-anime.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Includes information about the club, events, constitution, and anime facts. Ottawa, Ontario, Canada.</dc-elements:Description>
+        <dc-elements:Title>Anime @ Carleton</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.freewebs.com/shanimeclub/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, rules, survey, chat, links, and guestbook. Pittsburgh, Pennsylvania, USA.</dc-elements:Description>
+        <dc-elements:Title>South Hills Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://tech.groups.yahoo.com/group/pin0yotaku/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Yahoo group for people located in Sacramento, San Francisco, San Jose, CA . Primarily for Filipinos to promote and enjoy anime.</dc-elements:Description>
+        <dc-elements:Title>Pin0yotaku</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.ohio.edu/orgs/jcon/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>About, activities, constitution, member information, contacts and links. Athens, Ohio, USA at Ohio University.</dc-elements:Description>
+        <dc-elements:Title>JCON: Japanese Connection:</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://dcanimeclub.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Events calendar, forums, and gallery. Washington DC, Maryland and Virginia, USA.</dc-elements:Description>
+        <dc-elements:Title>DC Anime</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.utarpa.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Information about the club, location details, links, and FAQ. Toronto, Canada.</dc-elements:Description>
+        <dc-elements:Title>UTARPA</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.jaamke.com/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Club information, calendar, forums, and member fan works. Milwaukee, Wisconsin, USA.</dc-elements:Description>
+        <dc-elements:Title>Japanese Animation Association of Milwaukee</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.greenmustard.com/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Provides support and anime resources to the Southeastern United States. Includes contact information, forum, links, news and photog
+raphs. Florida, USA.</dc-elements:Description>
+        <dc-elements:Title>Green Mustard / Wasabi Anime</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://tech.groups.yahoo.com/group/amrc-l/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Yahoo Group for scholars engaged in the academic study of anime and manga, associated subcultures, and Japanese popular culture.</dc-elements:Description>
+        <dc-elements:Title>Anime and Manga Research Circle</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.fortunecity.com/campus/geography/880/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Contains officer listing, meeting schedule, and member details. New Brunswick, New Jersey, USA.</dc-elements:Description>
+        <dc-elements:Title>Rutgers Japanese Cultural Association</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://groups.yahoo.com/group/goddessofloveandbeauty/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Yahoo Group for general shoujo anime and manga discussions.</dc-elements:Description>
+        <dc-elements:Title>Goddess of Love and Beauty Group</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.cwu.edu/~anime/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Officers, list of titles, meeting times, minutes, and group information. Ellensburg, Washington, USA at Central Washington Universi
+ty.</dc-elements:Description>
+        <dc-elements:Title>Namakemono Anime Club</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <catid>284096</catid>
+    <link>
+      <ExternalPage rdf:about="http://groups.yahoo.com/group/AnimeFansWorldwide/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Yahoo Group created to chat about anime, manga, cosplay, and j-rock. Includes links, polls, a spam free group chat room, and photo 
+sharing,</dc-elements:Description>
+        <dc-elements:Title>Anime Fans Worldwide</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.angelfire.com/yt/ahsaa/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Mission statement, reviews, member area, links, and how to join.</dc-elements:Description>
+        <dc-elements:Title>American High School Anime Association</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://animeclub.org">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Forum, officers, schedule, directions, contacts, and links. Fairfax, Virginia, USA.</dc-elements:Description>
+        <dc-elements:Title>Northern Virginia Anime Association</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://anime-alberta.org/">
+        <topic>Top/Arts/Animation/Anime/Clubs_and_Organizations</topic>
+        <dc-elements:Description>Message board, features, information, events and several groups. Alberta, Canada.</dc-elements:Description>
+        <dc-elements:Title>Anime Alberta</dc-elements:Title>
+      </ExternalPage>
+    </link>
+  </Topic>
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#Top/Arts/Animation/Anime">
+    <catid>284053</catid>
+  </Topic>
+  <Topic rdf:about="file:///Users/andrea/Documents/software/mario/marvin/web/taskcontroller/graph.rdf#Top/Arts/Animation">
+    <link>
+      <ExternalPage rdf:about="http://www.digitalmediafx.com/Features/animationhistory.html">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>Michael Crandol takes an exhaustive look at the history of animation and animators/visionaries like Max Fleisher, Walter Lantz, and
+ Otto Messmer.</dc-elements:Description>
+        <dc-elements:Title>Digital Media FX: The History of Animation</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.animated-divots.com/">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>Chronology of animated movies, television programs, and short cartoons. Includes animation filmographies and a list of anime televi
+sion series.</dc-elements:Description>
+        <dc-elements:Title>Richard's Animated Divots</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www-viz.tamu.edu/courses/viza615/97spring/pjames/history/main.html">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>A short, illustrated essay by Patrick James on the basics of early animations.</dc-elements:Description>
+        <dc-elements:Title>History of Animation: Before Disney</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://www.spark-online.com/august00/media/romano.html">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>Chris Romano feels that the proliferation of Flash and other web-based animation technologies has not improved the overall quality 
+of animation and cartoons.</dc-elements:Description>
+        <dc-elements:Title>Spark Online: Only Genius Is Genius</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link1>
+      <ExternalPage rdf:about="http://www.awn.com">
+        <topic>Top/Arts/Animation</topic>
+        <priority>1</priority>
+        <dc-elements:Description>Provides information resources to the international animation community. Features include searchable database archives, monthly mag
+azine, web animation guide, the Animation Village, discussion forums and other useful resources.</dc-elements:Description>
+        <dc-elements:Title>Animation World Network</dc-elements:Title>
+      </ExternalPage>
+    </link1>
+    <link>
+      <ExternalPage rdf:about="http://www.toonhound.com">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>British cartoon, animation and comic strip creations - links, reviews and news from the UK.</dc-elements:Description>
+        <dc-elements:Title>Toonhound</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <link>
+      <ExternalPage rdf:about="http://animation.about.com/">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>Keep up with developments in online animation for all skill levels. Download tools, and seek inspiration from online work.</dc-elements:Description>
+        <dc-elements:Title>About.com: Animation Guide</dc-elements:Title>
+      </ExternalPage>
+    </link>
+    <catid>282910</catid>
+    <link>
+      <ExternalPage rdf:about="http://enculturation.gmu.edu/2_1/pisters.html">
+        <topic>Top/Arts/Animation</topic>
+        <dc-elements:Description>Essay by Patricia Pisters on the animated image and its changing relationship with the cinematic image.</dc-elements:Description>
+        <dc-elements:Title>Enculturation: From Mouse to Mouse: Overcoming Information</dc-elements:Title>
+      </ExternalPage>
+    </link>
+  </Topic>
+</rdf:RDF>

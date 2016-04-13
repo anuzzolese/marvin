@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>eu.mario-project</groupId>
+		<artifactId>parent</artifactId>
+		<version>0.1-SNAPSHOT</version>
+		<relativePath>../../parent</relativePath>
+	</parent>
+
+	<groupId>eu.mario-project</groupId>
+	<artifactId>eu.mario-project.marvin.web.taskcontroller</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>bundle</packaging>
+
+	<name>Task Controller Web API</name>
+	<description>HTTP application bundle for the task controller.</description>
+
+	<build>
+		<!-- make it an OSGi bundle -->
+		<plugins>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-scr-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<extensions>true</extensions>
+				<configuration>
+					<instructions>
+						<Export-Package>
+							eu.marioproject.marvin.web.taskcontroller;version=${project.version},
+							eu.marioproject.marvin.web.taskcontroller.*;version=${project.version}
+						</Export-Package>
+						<Import-Package>
+							javax.servlet.*; version="[2.5.0,4.0.0)",
+							javax.ws.rs;version="[2,3)",
+							javax.ws.rs.ext;version="[2,3)",
+							javax.ws.rs.core;version="[2,3)",
+							org.codehaus.jettison.json;resolution:=optional,
+							org.apache.jena.rdf.model,
+							*
+						</Import-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<!-- dependency> <groupId>org.apache.stanbol</groupId> <artifactId>org.apache.stanbol.commons.jsonld</artifactId> 
+			<version>1.0.0-SNAPSHOT</version> </dependency -->
+
+		<dependency>
+			<groupId>org.codehaus.jettison</groupId>
+			<artifactId>jettison</artifactId>
+			<version>1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.ws.rs</groupId>
+			<artifactId>javax.ws.rs-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+		</dependency>
+
+		<!-- generic tax -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+		</dependency>
+
+		<!-- OSGi tax -->
+		<dependency>
+			<groupId>org.osgi</groupId>
+			<artifactId>org.osgi.core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.osgi</groupId>
+			<artifactId>org.osgi.compendium</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.felix</groupId>
+			<artifactId>org.apache.felix.scr.annotations</artifactId>
+		</dependency>
+
+		<!-- Freemarker -->
+		<dependency>
+			<groupId>org.freemarker</groupId>
+			<artifactId>freemarker</artifactId>
+			<version>2.3.20</version>
+		</dependency>
+
+		<!-- Marvin deps -->
+		<dependency>
+			<groupId>eu.mario-project</groupId>
+			<artifactId>eu.mario-project.marvin.taskcontroller</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>eu.mario-project</groupId>
+			<artifactId>eu.mario-project.commons.web.base</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<!-- Apache Jena -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>apache-jena-libs</artifactId>
+			<version>3.0.1</version>
+			<type>pom</type>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-shaded-guava</artifactId>
+			<version>3.0.1</version>
+		</dependency>
+
+
+		<!-- for playground -->
+		<!-- dependency>
+			<groupId>eu.mario-project</groupId>
+			<artifactId>eu.mario-project.marvin.clients.robot</artifactId>
+			<version>0.1-SNAPSHOT</version>
+		</dependency -->
+
+
+		<!-- for tests -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+</project>

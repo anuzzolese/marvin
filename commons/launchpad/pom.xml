@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Author Andrea Nuzzolese
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>eu.mario-project</groupId>
+    <artifactId>parent</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <relativePath>../../parent</relativePath>
+  </parent>
+
+  <groupId>eu.mario-project</groupId>
+  <artifactId>eu.mario-project.commons.launchpad</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Commons Launchpad</name>
+  <description>
+    Small wrapper over the Apache Sling Launchpad that is used to set 
+    specific environment parameters
+  </description>
+
+  <inceptionYear>2016</inceptionYear>
+
+  <build>
+    <plugins>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.sling</groupId>
+      <artifactId>org.apache.sling.launchpad.base</artifactId>
+      <classifier>app</classifier>
+    </dependency>
+  </dependencies>
+
+</project>

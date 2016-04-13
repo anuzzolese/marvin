@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Author Andrea Nuzzolese
+-->
+  <!--
+		List of initial bundles for the ESWC Sling-based standalone launcher.
+	-->
+<bundles>
+  
+  <!-- *********************************************************************
+          start level 10 TO 19 reserved for required libraries
+          (internal and external)
+       ********************************************************************* -->
+  
+  <!-- Jersey -->
+  <startLevel level="25">
+   <!-- <bundle>
+      <groupId>com.sun.jersey</groupId>
+      <artifactId>jersey-client</artifactId>
+      <version>1.15</version>
+    </bundle> -->
+  </startLevel>
+
+  
+</bundles>
